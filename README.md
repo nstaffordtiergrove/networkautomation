@@ -6,7 +6,7 @@ This repository is a set of modules that I am building and maintaining for TierG
 
 All modules created and distributed here have been built and tested successfully at TierGrove, Inc. Codebases here and the NetMiko library are stable builds that are publicly available.
 
-IDE used is Geany (because it's free) and code is written in Python. Python chosen because that is what NetMiko is written and I WILL NOT be converting this to C++ at this time.
+IDE used is Geany (because it's free) and code is written in Python. Python chosen because that is what NetMiko is in written and I WILL NOT be converting this to C++ at this time.
 
 NOTE: ALL CODE IN THIS REPOSITORY IS NON-AI GENERATED. ALL AI GENERATED CODE IS AUTOMATICALLY BANNED FROM USE IN THIS REPOSITORY.
 
