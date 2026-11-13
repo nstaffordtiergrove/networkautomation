@@ -10,4 +10,4 @@ IDE used is Geany (because it's free) and code is written in Python. Python chos
 
 NOTE: ALL CODE IN THIS REPOSITORY IS NON-AI GENERATED. ALL AI GENERATED CODE IS AUTOMATICALLY BANNED FROM USE IN THIS REPOSITORY.
 
-Business inquiries? nick.stafford@tiergrove.com
+Inquiries? nick.stafford@tiergrove.com
